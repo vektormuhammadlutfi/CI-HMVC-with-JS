@@ -1,0 +1,13 @@
+/* here you can put your own css to customize and override the theme */
+table.table>thead>tr.heading>th,
+table.table>thead>tr>th{
+    background-color: #006666 !important;
+    color: #ffffff !important;    
+    text-align: center !important;
+    text-transform: uppercase !important; 
+    font-size: 12px;
+    vertical-align: middle;
+}
+.money{
+    text-align: right !important;
+}
